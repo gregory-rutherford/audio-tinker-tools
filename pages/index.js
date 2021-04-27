@@ -17,11 +17,11 @@ export default function Home() {
       </section>
       <section>
         <h1>Links</h1>
-        <Link href="/posts/metronome-page">
+        <Link href="/tools/metronome-page">
           <a>Metronome</a>
         </Link> {" "}
         <br/>
-        <Link href="/posts/synth-page">
+        <Link href="/tools/synth-page">
           <a>Synth</a>
         </Link>
       </section>
