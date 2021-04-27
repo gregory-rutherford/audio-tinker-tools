@@ -1,0 +1,17 @@
+.metronomeControls {
+    display: flex;
+    flex-direction: column;
+}
+
+.metronomeControls Button {
+    margin: 1em;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.tempoBox {
+    align-self: center;
+    font-size: 1.5em;
+    background-color: #3700B3;
+    padding: .2em;
+    border: 1px solid #FFFFFF;
+}
